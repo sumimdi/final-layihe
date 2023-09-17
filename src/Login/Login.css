@@ -1,0 +1,44 @@
+.loginContainer{
+  display: flex;
+  flex-direction: column;
+
+}
+.addContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d9d9d9;
+    padding: 3%;
+    margin: 10% 0;
+  
+  }
+
+  .lgnspan {
+    display: inline-block;
+    width: 100px;
+    height: 20px;
+    font-size: 20px;
+    color: rgb(43, 41, 41);
+  }
+  .lgninput {
+    border-radius: 5px;
+    border-color: white;
+    width: 210px;
+    height: 30px;
+    font-size: 18px;
+  }
+  .lgnbutton {
+    font-size: 15px;
+    margin-top: 7px;
+    margin-left: 205px;
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #7a5cfa;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .white {
+    color: white;
+    font-size: 16px;
+  }
+  
